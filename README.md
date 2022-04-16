@@ -1,7 +1,4 @@
 <p align="center"><a href="https://lailiimr.github.io"><img width="80%" src="text (2).gif" /></a></p>
-
-<br />
-
 **About me**
 <!--
 **Lailiimr/Lailiimr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
