@@ -3,7 +3,7 @@
 
 **ABOUT ME** 🧚‍♀️
 - 🌱 I’m currently learning *Management*
-- 👯 I’m looking to collaborate *learn coding at Orbit Future Academy*
+- 👯 I’m looking to collaborate *learn coding and AI at Orbit Future Academy*
 - 😄 Follow my acc IG wkwk : *@lailiimr*
 - ⚡ Fun fact: *Humble, fun*
 
