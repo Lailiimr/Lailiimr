@@ -1,4 +1,4 @@
-<p align="center"><a href="https://lailiimr.github.io"><img width="80%" src="text-unscreen.gif" /></a></p>
+<p align="center"><a href="https://lailiimr.github.io"><img width="80%" src="text (2).gif" /></a></p>
 
 <br />
 
